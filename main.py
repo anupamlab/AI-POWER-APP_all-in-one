@@ -421,8 +421,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main title
-st.markdown("#  All-in-One AI Assistant- anupamLab")
-st.markdown("*Your personal AI companion for 13+ different tasks*")
+st.markdown("#  All-in-One AI Assistant_By anupamLab")
+st.markdown("*Your personal AI companion for 13+ different tasks* https://github.com/anupamlab")
 
 # ═══════════════════════════════════════════════════════════════════════════
 # CREATE TABS FOR DIFFERENT TOOLS
