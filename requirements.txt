@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+pandas
+requests
+beautifulsoup4
+groq
+SpeechRecognition
+easyocr
+Pillow
