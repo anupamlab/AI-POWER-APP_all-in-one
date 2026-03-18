@@ -1,2 +1,3 @@
 # AI-POWER-APP_all-in-one
-AI
+🔗 **Live Demo:** <https://aianupamlab.streamlit.app>
+
