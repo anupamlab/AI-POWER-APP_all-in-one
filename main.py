@@ -446,7 +446,7 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12, tab13
 ])
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 1: DOCUMENT ANALYZER
+# TAB 1: DOCUMENT ANALYZER  by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab1:
@@ -579,7 +579,7 @@ with tab2:
                             st.write(answer)
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 3: RESUME ANALYZER
+# TAB 3: RESUME ANALYZER  by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab3:
@@ -673,7 +673,7 @@ Be realistic and encouraging."""
                     st.write(result)
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 4: CHAT WITH DOCUMENT (RAG LITE)
+# TAB 4: CHAT WITH DOCUMENT (RAG LITE)  by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab4:
@@ -755,7 +755,7 @@ with tab4:
                 st.rerun()
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 5: MULTI RESEARCH TOOL
+# TAB 5: MULTI RESEARCH TOOL  by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab5:
@@ -1018,7 +1018,7 @@ Cite reasoning: "Recommended because [Source_Name] found..." """
         st.info("👆 **Get Started:** Upload a PDF, add text, or enter a URL to begin your research analysis")
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 6: AI NOTES GENERATOR
+# TAB 6: AI NOTES GENERATOR  by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab6:
@@ -1109,7 +1109,7 @@ Make it suitable for students."""
             )
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 7: VOICE AI ASSISTANT
+# TAB 7: VOICE AI ASSISTANT by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab7:
@@ -1221,7 +1221,7 @@ with tab7:
 
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 8: DATA ANALYZER
+# TAB 8: DATA ANALYZER by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab8:
@@ -1383,7 +1383,7 @@ Provide:
             st.error(f"Error reading CSV: {str(e)}")
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 9: FINANCIAL REPORT ANALYZER
+# TAB 9: FINANCIAL REPORT ANALYZER by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab9:
@@ -1486,7 +1486,7 @@ Provide (numbered list):
             st.error(f"Error: {str(e)}")
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 10: CODE EXPLAINER
+# TAB 10: CODE EXPLAINER by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab10:
@@ -1637,7 +1637,7 @@ Provide (numbered list):
         st.info("👆 Upload a code file or paste code above to analyze")
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 11: EMAIL/CONTENT GENERATOR
+# TAB 11: EMAIL/CONTENT GENERATOR by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab11:
@@ -1771,7 +1771,7 @@ Keep it short, punchy, and engaging."""
             )
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 12: LEARNING ASSISTANT
+# TAB 12: LEARNING ASSISTANT by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab12:
@@ -1878,7 +1878,7 @@ Make examples relatable."""
                             st.write(followup_answer)
 
 # ═══════════════════════════════════════════════════════════════════════════
-# TAB 13: IMAGE TO TEXT (OCR)
+# TAB 13: IMAGE TO TEXT (OCR)  by anupamLab
 # ═══════════════════════════════════════════════════════════════════════════
 
 with tab13:
